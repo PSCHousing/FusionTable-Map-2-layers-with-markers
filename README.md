@@ -22,5 +22,8 @@ Basic steps:
 Learn more in an open-access Data Visualization book-in-progress by Jack Dougherty at Trinity College CT
 http://epress.trincoll.edu/dataviz
 
-TO DO: add polygon legend on index.html, similar to http://chicagobuildings.org/
+TO DO: 
+*change legend to closely resemble small markers
+*change image labels to match exact wording in Google Fusion Table feature style options (large_red, small_yellow, etc.)
+*add polygon legend on index.html, similar to http://chicagobuildings.org/
 
