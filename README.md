@@ -23,7 +23,8 @@ Learn more in an open-access Data Visualization book-in-progress by Jack Dougher
 http://epress.trincoll.edu/dataviz
 
 TO DO: 
-*change legend to closely resemble small markers
-*change image labels to match exact wording in Google Fusion Table feature style options (large_red, small_yellow, etc.)
-*add polygon legend on index.html, similar to http://chicagobuildings.org/
+* change legend to closely resemble small markers
+* add reminder that the Google Fusion Table structure (e.g. Program Type variables) must match EXACTLY the js code
+* change image labels to match exact wording in Google Fusion Table feature style options (large_red, small_yellow, etc.)
+* add polygon legend on index.html, similar to http://chicagobuildings.org/
 
